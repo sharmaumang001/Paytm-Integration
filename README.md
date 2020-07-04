@@ -8,4 +8,5 @@ This can be directly added to any app and with some suitable UI changes you can 
 At the moment it has minimal UI for testing purpose.
 </br>
 </br>
-</br>## Please Star if, found useful.
+</br>
+## Please Star, If it helps you.
